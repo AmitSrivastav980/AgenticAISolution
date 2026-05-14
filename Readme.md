@@ -1,3 +1,9 @@
+---
+title: career_conversation
+app_file: app.py
+sdk: gradio
+sdk_version: 6.14.0
+---
 # AgenticAISolution
 
 A project for building and experimenting with agentic AI workflows.
